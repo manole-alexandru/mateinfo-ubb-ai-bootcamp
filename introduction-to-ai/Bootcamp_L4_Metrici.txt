@@ -1,0 +1,7 @@
+Discutie despre regresie + clasificare.
+
+Un pic de teorie cu metricile de clasificare:
+1. Matricea de confuzie
+2. Acuratete
+3. Precizie
+4. Recall
